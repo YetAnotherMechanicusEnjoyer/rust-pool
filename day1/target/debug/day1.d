@@ -1,0 +1,1 @@
+/home/magos/projects/rust-pool/day1/target/debug/day1: /home/magos/projects/rust-pool/day1/src/main.rs /home/magos/projects/rust-pool/day1/src/tasks/task02.rs /home/magos/projects/rust-pool/day1/src/tasks/task03.rs /home/magos/projects/rust-pool/day1/src/tasks.rs
