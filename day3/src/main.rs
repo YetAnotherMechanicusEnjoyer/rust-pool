@@ -1,3 +1,6 @@
+mod tasks;
+use tasks::tasks;
+
 fn main() {
-    println!("Hello, world!");
+    tasks();
 }
